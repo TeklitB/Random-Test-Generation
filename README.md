@@ -1,2 +1,2 @@
-# RTS
-RTS: Random-Test-Generation
+# RTG
+RTG: Random-Test-Generation
